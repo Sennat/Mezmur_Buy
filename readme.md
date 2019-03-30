@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-Nutrisys
+Mezmur_Buy
 This is a Laravel app that helps people track their daily nutrition.
 
 Contributing
